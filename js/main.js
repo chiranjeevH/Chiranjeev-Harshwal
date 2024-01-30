@@ -15,7 +15,7 @@ $(document).ready(function () {
     // Resume download_resume
     $('#download_resume').click(function(){
         window.open('https://drive.google.com/file/d/1r-eaqIH7oetsw4c5vVe-bgkqAzNF64gJ/view?usp=sharing', '_blank');
-    });
+    });  
         
 
     // RESPONSIVE MENU

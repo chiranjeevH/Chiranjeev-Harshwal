@@ -3,19 +3,19 @@
 /*---------------------------------- */
 
 header nav a.home-btn, .estate figure .imgout .price, .site-btn, .timeline li:first-child i, nav ul li a:after, .owl-theme .owl-controls .owl-page span, .skill-list .progress .percentage, ul.profile-information li:first-child:before{
-    background: #ffc500 !important;
+    background: #0080ff !important;
 }
 
 header nav ul li a:hover, .events ul li .datenlocation span, .namenprice .price, .cbp-filter-item-active, .portfolio-content p span, #blog-post .blog-sidebar ul.category-list li a:hover, #blog-post .blog-sidebar .popular-posts ul li a .info{
-    color: #ffc500 !important;
+    color: #0088ff !important;
 }
 
 .spinner:before{
-    border-top-color: #ffb100;
+    border-top-color: #0084ff;
 }
 
 ul.profile-information li:before{
-	border-color: #ffc500;
+	border-color: #0084ff;
 }
 
 /* Hover Color*/
@@ -27,7 +27,7 @@ ul.profile-information li:before{
 /* Opacity Color*/
 
 #portfolio .cbp-item .portfolio-image .icon i, #portfolio .cbp-item figure .icon i{
-    background: rgb(255, 197, 1);
+    background: rgb(1, 153, 255);
 }
 
 /* for light colors */
@@ -37,11 +37,11 @@ ul.profile-information li:before{
 }
 
 .timeline li:before, ul.profile-information li:before{
-	border-color: #ffb100 !important;
+	border-color: #0084ff !important;
 }
 
 .tab.active a, #blog-post .post-list ul li a, #blog-post .post-comment ul li .comment-content a{
-	color: #ffb100;
+	color: #0084ff;
 }
 
 ul.profile-information li:first-child:after{

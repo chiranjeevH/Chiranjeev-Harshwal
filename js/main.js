@@ -14,7 +14,7 @@ $(document).ready(function () {
 
     // Resume download_resume
     $('#download_resume').click(function(){
-        var resumeLink = '<a href="pdf/Abhishek_Verma_Resume.pdf" id="pdf_resume" target="_blank"></a>';
+        var resumeLink = '<a href="pdf/Chiranjeev_Harshwal_Resume.pdf" id="pdf_resume" target="_blank"></a>';
 
         if($('#pdf_resume').length == 0)
             $(this).after(resumeLink);

@@ -14,14 +14,9 @@ $(document).ready(function () {
 
     // Resume download_resume
     $('#download_resume').click(function(){
-        var resumeLink = '<a href="https://github.com/chiranjeevH/chiranjeevh.github.io/blob/main/pdf/Chiranjeev_Harshwal_Resume.pdf" id="pdf_resume" target="_blank"></a>';
-
-        if($('#pdf_resume').length == 0)
-            $(this).after(resumeLink);
-
-        $('#pdf_resume')[0].click();
+        window.open('https://drive.google.com/file/d/1r-eaqIH7oetsw4c5vVe-bgkqAzNF64gJ/view?usp=sharing', '_blank');
     });
-
+        
 
     // RESPONSIVE MENU
     function transform(){
